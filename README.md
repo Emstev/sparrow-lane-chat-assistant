@@ -52,8 +52,8 @@ flowchart LR
 | Bad input | `{"messages":[]}` | `messages must be a list of 1 to 20 items` |
 | CORS preflight | `OPTIONS /chat` from the S3 site origin | `access-control-allow-origin` returns the S3 site address |
 
-![Guardrail refusal](docs/images/02-guardrail-refusal.png)
-![CloudWatch log showing the blocked call](docs/images/03-cloudwatch-blocked.png)
+![Guardrail refusal](guardrail-refusal.png)
+![CloudWatch log showing the blocked call](cloudwatch-blocked.png)
 
 ## Prerequisites
 
