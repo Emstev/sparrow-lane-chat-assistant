@@ -4,7 +4,7 @@ A small bike repair and hire shop in Leeds had no website, and its phone rang al
 
 This project gives the shop a one-page website with a chat assistant that answers those questions at any hour, politely, and **only from the shop's own facts**. It turns away abuse with a Bedrock guardrail.
 
-Built as a hands-on lab with **Cloudboosta Academy** (AWS, region `eu-west-2`, London).
+Built as a hands-on project with **Cloudboosta Academy** (AWS, region `eu-west-2`, London).
 
 ![Chat widget on the Sparrow Lane site](docs/images/01-site-chat.png)
 
@@ -270,4 +270,4 @@ aws lambda list-functions --region eu-west-2 --query "Functions[].FunctionName" 
 
 ## Credits
 
-Built as part of Cloudboosta Academy training. Website drafted with Claude (Claude Sonnet 4.6) in the Amazon Bedrock chat playground. Chat answers come from Amazon Nova Lite.
+Built as part of Cloudboosta Academy AI for Cloud Training. Website drafted with Claude (Claude Sonnet 4.6) in the Amazon Bedrock chat playground. Chat answers come from Amazon Nova Lite.
