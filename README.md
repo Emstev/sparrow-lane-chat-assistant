@@ -6,7 +6,7 @@ This project gives the shop a one-page website with a chat assistant that answer
 
 Built as a hands-on project with **Cloudboosta Academy** (AWS, region `eu-west-2`, London).
 
-![Chat widget on the Sparrow Lane site](docs/images/01-site-chat.png)
+![Chat widget on the Sparrow Lane site]
 
 ## What it does
 
@@ -21,7 +21,7 @@ Built as a hands-on project with **Cloudboosta Academy** (AWS, region `eu-west-2
 
 ## Architecture
 
-![Architecture diagram](docs/images/architecture.png)
+![Architecture diagram](architecture.png.png)
 
 ```mermaid
 flowchart LR
