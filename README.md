@@ -270,4 +270,4 @@ aws lambda list-functions --region eu-west-2 --query "Functions[].FunctionName" 
 
 ## Credits
 
-Built as part of Cloudboosta Academy AI for Cloud Training. Website drafted with Claude (Claude Sonnet 4.6) in the Amazon Bedrock chat playground. Chat answers come from Amazon Nova Lite.
+Built as part of Cloudboosta Academy AI for Cloud Course. Website drafted with Claude (Claude Sonnet 4.6) in the Amazon Bedrock chat playground. Chat answers come from Amazon Nova Lite.
